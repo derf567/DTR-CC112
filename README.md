@@ -1,2 +1,4 @@
 # DTR-CC112
-new repo
+This is a Daily Time Record System
+We use here a file handling 
+This is a project for CC112 "DTR"
